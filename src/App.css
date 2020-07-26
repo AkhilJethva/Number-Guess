@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    width: 70%;  
+}
+.col-3{
+    width: 25%;
+    padding: 10px;
+}
+.correct{
+    background-color: #008000;
+}
+.hot{
+    background-color: #ff0000;
+}
+.warm{
+    background-color: #ffa500;
+}
+.cold{
+    background-color: #00ffff;
+}
+.submit_form{
+    
+    background-color: #808080;
+    height: 30%;
+    padding: 20px;
+  
+}
+form{
+    padding: 10px;
+}
+input{
+    width: 200px;
+    padding: 5px;
+}
+button{
+    background-color: #2185d0;
+    color: #000000;
+    padding: 7px;
+    border-radius: 10px;
+}
+.app{
+    width: 70%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h3{
+    background-color: coral;
+    padding: 7px;
+    text-align: center;
+    font-size: x-large;
+}
+.rules{
+    padding: 7px;
+    background-color: #00ffff;
+
+}
+li{
+    margin: 5px;
+}
